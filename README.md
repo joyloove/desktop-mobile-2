@@ -6,6 +6,5 @@ Replica la estructura desktop y modifícala a mobile como la imagen te lo dice, 
 
 ![example1.jpg](assets/images/example1.jpg)
 
-![example2.jpg](assets/images/example2.jpg)
 
-![example3.jpg](assets/images/example3.jpg)
+https://joyloove.github.io/desktop-mobile-2/.
